@@ -22,7 +22,7 @@ MSG_ERROR_KEY = "Не коректный ключ. Попробуйте снов
 MSG_OPERATIONS = """1. Обновить. \t\t2.Удалить.
                  0. Вернуться в передыдущее меню."""
 MSG_NO_SUITABLE = "0. Нету подходящих. "
-MSG_CHOOSE_INFO_UPDATE = """Choose info for update:
+MSG_CHOOSE_INFO_UPDATE = """Выберите что хитите изменить:
 1. First name. \t2. Last name.
 3. Phone number.\t 4. City.
-0. Exit"""
+0. Выход"""
